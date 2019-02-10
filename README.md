@@ -1,4 +1,4 @@
-## This is an exercise to develop intuition about how to deal with the data analysis problems, the steps that i have followed are:
+## This is an exercise to develop intuition about how to deal with data analysis problems, the steps that i have followed are:
 
 * **Exploratory Data Analysis**
 * **A treatment for inconsistencies in the data**
