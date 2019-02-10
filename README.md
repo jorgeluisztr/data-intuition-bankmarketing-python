@@ -3,7 +3,7 @@
 * **Exploratory Data Analysis**
 * **A treatment for inconsistencies in the data**
 * **Transform categorical variables in binary ones**
-* **Look fot outliers**
+* **Look for outliers**
 * **Feature Engineering**
 * **Train a model**
 * **Test the results**
